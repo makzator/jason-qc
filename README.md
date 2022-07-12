@@ -1,2 +1,2 @@
 # qcsim
-Quantum computing simulations
+Quantum computing simulations for pulse-level control
