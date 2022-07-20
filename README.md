@@ -1,2 +1,4 @@
 # qc
-Playing around/preliminary research with quantum computing using various libraries (Python: QuTiP, qiskit, Cirq, Pulser; Julia: QuantumOptics.jl).
+Quantum computing: playing around, testing out random ideas, preliminary research.
+
+Also learning how to use various libraries (Python: QuTiP, qiskit, Cirq, Pulser; Julia: QuantumOptics.jl).
